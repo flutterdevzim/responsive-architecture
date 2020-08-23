@@ -42,3 +42,13 @@ Widget myResponsiveWidget() {
     );
 }
 ```
+
+### Reccommended plugin for testing responsiveness
+[device_preview](https://pub.dev/packages/device_preview) plugin
+[device_simulator](https://pub.dev/packages/device_simulator)
+
+### Other approaches
+- [responsive_widgets](https://pub.dev/packages/responsive_widgets) plugin
+- [auto_size_text_field](https://pub.dev/packages/auto_size_text_field) plugin
+- [flutter_screenutil](https://pub.dev/packages/flutter_screenutil) plugin
+- [responsive_framework](https://pub.dev/packages/responsive_framework) plugin
