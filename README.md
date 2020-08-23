@@ -13,7 +13,7 @@ List<Widget> _children = <Widget>[
                           Text('love'),
                           Text('flutter'),
                           Text('dev'),
-                          Text('zim 🇿🇼'),
+                          Text('zim'),
                           ];
                        
 // mobile    
@@ -53,3 +53,6 @@ Widget myResponsiveWidget() {
 - [flutter_screenutil](https://pub.dev/packages/flutter_screenutil) plugin
 - [responsive_framework](https://pub.dev/packages/responsive_framework) plugin
 - [relative_scale](https://pub.dev/packages/relative_scale) plugin
+
+
+with love from :zimbabwe:
