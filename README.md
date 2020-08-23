@@ -43,7 +43,7 @@ Widget myResponsiveWidget() {
 }
 ```
 
-### Reccommended plugin for testing responsiveness
+### Plugin for testing ui responsiveness
 - [device_preview](https://pub.dev/packages/device_preview) plugin
 - [device_simulator](https://pub.dev/packages/device_simulator) plugin
 
