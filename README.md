@@ -13,7 +13,7 @@ List<Widget> _children = <Widget>[
                           Text('love'),
                           Text('flutter'),
                           Text('dev'),
-                          Text('zim'),
+                          Text('zim 🇿🇼'),
                           ];
                        
 // mobile    
