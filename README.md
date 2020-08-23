@@ -52,3 +52,4 @@ Widget myResponsiveWidget() {
 - [auto_size_text_field](https://pub.dev/packages/auto_size_text_field) plugin
 - [flutter_screenutil](https://pub.dev/packages/flutter_screenutil) plugin
 - [responsive_framework](https://pub.dev/packages/responsive_framework) plugin
+- [relative_scale](https://pub.dev/packages/relative_scale) plugin
