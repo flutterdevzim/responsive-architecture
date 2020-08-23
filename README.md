@@ -1,8 +1,8 @@
 # responsive-architecture
 ultimate responsive ui architecture for flutter applications
 
-forked from [filledstacks](https://www.filledstacks.com/post/building-a-responsive-ui-architecture-in-flutter/)
-watch video [here](https://www.youtube.com/watch?v=udsysUj-X4w)
+- inspired and copied from [filledstacks](https://www.filledstacks.com/post/building-a-responsive-ui-architecture-in-flutter/)
+- watch video [here](https://www.youtube.com/watch?v=udsysUj-X4w)
 
 ## Abstract example
 ``` dart
@@ -44,8 +44,8 @@ Widget myResponsiveWidget() {
 ```
 
 ### Reccommended plugin for testing responsiveness
-[device_preview](https://pub.dev/packages/device_preview) plugin
-[device_simulator](https://pub.dev/packages/device_simulator)
+- [device_preview](https://pub.dev/packages/device_preview) plugin
+- [device_simulator](https://pub.dev/packages/device_simulator) plugin
 
 ### Other approaches
 - [responsive_widgets](https://pub.dev/packages/responsive_widgets) plugin
